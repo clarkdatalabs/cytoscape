@@ -1,2 +1,1 @@
-# cytoscape
-A workshop for network analysis using cytoscape
+[![Photo of Complex Data slide showing Cytoscape Graphical User Interface](images/cytoscapedoc.png)](https://github.com/clarkdatalabs/cytoscape)
